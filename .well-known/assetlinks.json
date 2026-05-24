@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "dev.zkellerdevelops.protoviewer",
+      "sha256_cert_fingerprints": [
+        "4D:A4:F8:03:01:85:DD:7D:79:4E:B3:D0:05:E5:06:29:54:81:3E:EE:28:45:7A:85:7C:1A:ED:A9:19:44:51:96"
+      ]
+    }
+  }
+]
